@@ -54,7 +54,6 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/79f02306-8654-421f-9ff6-96851d34db89) and click on Share -> Publish.
 
 
 Yes, you can!
